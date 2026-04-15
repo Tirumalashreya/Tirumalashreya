@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Ai**
 
-- 🌱 I’m currently learning **recact js,Ai**
+- 🌱 I’m currently learning **Ai**
 
-- 👯 I’m looking to collaborate on **Ai,Reactjs**
+- 👯 I’m looking to collaborate on **Ai**
 
-- 💬 Ask me about **react,java ,python**
+- 💬 Ask me about **java ,python**
 
 - 📫 How to reach me **tirumalashreya50@gmail.com**
 
